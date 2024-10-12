@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `I code, therefore I am.`,
     author: {
-      name: `crossjs`,
+      name: `L-W-F`,
       summary: `I live and work on the Internet.`,
     },
     description: `A blog showing my frontend development practices.`,
-    siteUrl: `https://crossjs.com/`,
+    siteUrl: `https://L-W-F.github.io/`,
     social: {
-      github: `crossjs`,
+      github: `L-W-F`,
     },
   },
   plugins: [
@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `crossjs.com`,
-        short_name: `crossjs.com`,
+        name: `L-W-F.github.io`,
+        short_name: `L-W-F.github.io`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website

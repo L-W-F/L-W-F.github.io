@@ -1,9 +1,9 @@
 {
-  "name": "crossjs.com",
+  "name": "lwf",
   "private": true,
   "description": "A blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "crossjs <liwenfu@crossjs.com>",
+  "author": "L-W-F <wenfu.li@qq.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -41,7 +41,7 @@
     "prettier": "^2.8.3",
     "typescript": "^4.9.4"
   },
-  "homepage": "https://github.com/crossjs/crossjs.github.io#readme",
+  "homepage": "https://github.com/L-W-F/L-W-F.github.io#readme",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crossjs/crossjs.github.io.git"
+    "url": "git+https://github.com/L-W-F/L-W-F.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
