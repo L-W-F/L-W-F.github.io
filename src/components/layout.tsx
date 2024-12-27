@@ -24,7 +24,7 @@ const Layout = ({ location, title, children }: Props) => {
         </header>
         {children}
         <footer className="flex justify-between mt-12 pt-6">
-          &copy; {year} L-W-F.github.io
+          &copy; {year} vvenv.github.io
           <a
             className="flex gap-1"
             href="/jinja2/"
