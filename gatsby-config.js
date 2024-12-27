@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `I code, therefore I am.`,
     author: {
-      name: `L-W-F`,
+      name: `vvenv`,
       summary: `I live and work on the Internet.`,
     },
     description: `A blog showing my frontend development practices.`,
-    siteUrl: `https://L-W-F.github.io/`,
+    siteUrl: `https://vvenv.vercel.app/`,
     social: {
-      github: `L-W-F`,
+      github: `vvenv`,
     },
   },
   plugins: [
